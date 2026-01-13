@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SpacialNavigationAI",
+	"Description": "TestForAiProject",
+	"Category": "Other",
+	"CreatedBy": "bgadoury",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SpacialNavigationAI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

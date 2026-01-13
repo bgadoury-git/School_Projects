@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\source\\spacialnavigationai\\structures\\fspacialnavnode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\intermediate\\build\\win64\\x64\\prj_iaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spacialnavigationai\\definitions.spacialnavigationai.h",
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\source\\spacialnavigationai\\structures\\fspacialnavnode.h",
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\intermediate\\build\\win64\\unrealeditor\\inc\\spacialnavigationai\\uht\\fspacialnavnode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

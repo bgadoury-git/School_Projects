@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\source\\spacialnavigationai\\private\\components\\spacialnav.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\intermediate\\build\\win64\\x64\\prj_iaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spacialnavigationai\\definitions.spacialnavigationai.h",
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\source\\spacialnavigationai\\public\\components\\spacialnav.h",
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\source\\spacialnavigationai\\public\\actors\\spacialnavgraph.h",
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\source\\spacialnavigationai\\structures\\fspacialnavnode.h",
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\intermediate\\build\\win64\\unrealeditor\\inc\\spacialnavigationai\\uht\\fspacialnavnode.generated.h",
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\intermediate\\build\\win64\\unrealeditor\\inc\\spacialnavigationai\\uht\\spacialnavgraph.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\floatingpawnmovement.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\pawnmovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\navmovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\navmovementinterface.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navmovementinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\pathfollowingagentinterface.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pathfollowingagentinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navmovementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pawnmovementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\floatingpawnmovement.generated.h",
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\intermediate\\build\\win64\\unrealeditor\\inc\\spacialnavigationai\\uht\\spacialnav.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

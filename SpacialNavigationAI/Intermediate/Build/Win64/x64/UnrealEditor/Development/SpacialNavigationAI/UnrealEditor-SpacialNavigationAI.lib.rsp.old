@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SpacialNavigationAI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Basti/Perforce/PRJ_IA_dev/PRJ_IA/Intermediate/Build/Win64/x64/PRJ_IAEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Basti/Perforce/PRJ_IA_dev/PRJ_IA/Plugins/SpacialNavigationAI/Intermediate/Build/Win64/x64/UnrealEditor/Development/SpacialNavigationAI/Module.SpacialNavigationAI.cpp.obj"
+"C:/Users/Basti/Perforce/PRJ_IA_dev/PRJ_IA/Plugins/SpacialNavigationAI/Intermediate/Build/Win64/x64/UnrealEditor/Development/SpacialNavigationAI/SpacialNav.cpp.obj"
+"C:/Users/Basti/Perforce/PRJ_IA_dev/PRJ_IA/Plugins/SpacialNavigationAI/Intermediate/Build/Win64/x64/UnrealEditor/Development/SpacialNavigationAI/Default.rc2.res"
+/OUT:"C:/Users/Basti/Perforce/PRJ_IA_dev/PRJ_IA/Plugins/SpacialNavigationAI/Intermediate/Build/Win64/x64/UnrealEditor/Development/SpacialNavigationAI/UnrealEditor-SpacialNavigationAI.lib"

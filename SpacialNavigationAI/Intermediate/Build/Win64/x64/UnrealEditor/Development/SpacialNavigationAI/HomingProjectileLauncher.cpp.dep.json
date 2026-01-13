@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\source\\spacialnavigationai\\private\\components\\homingprojectilelauncher.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\intermediate\\build\\win64\\x64\\prj_iaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spacialnavigationai\\definitions.spacialnavigationai.h",
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\source\\spacialnavigationai\\public\\components\\homingprojectilelauncher.h",
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\intermediate\\build\\win64\\unrealeditor\\inc\\spacialnavigationai\\uht\\homingprojectilelauncher.generated.h",
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\source\\spacialnavigationai\\public\\actors\\homingprojectile.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
+            "c:\\users\\basti\\perforce\\prj_ia_dev\\prj_ia\\plugins\\spacialnavigationai\\intermediate\\build\\win64\\unrealeditor\\inc\\spacialnavigationai\\uht\\homingprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

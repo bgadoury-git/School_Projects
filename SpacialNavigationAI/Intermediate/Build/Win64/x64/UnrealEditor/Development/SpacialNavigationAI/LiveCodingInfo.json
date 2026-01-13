@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SpacialNavigationAI.cpp.obj": [
+			"FSpacialNavNode.gen.cpp.obj",
+			"HomingProjectile.gen.cpp.obj",
+			"HomingProjectileLauncher.gen.cpp.obj",
+			"SpacialNav.gen.cpp.obj",
+			"SpacialNavGraph.gen.cpp.obj",
+			"SpacialNavigationAI.init.gen.cpp.obj",
+			"SpacialNavPawn.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"HomingProjectile.cpp.obj",
+			"SpacialNavGraph.cpp.obj",
+			"HomingProjectileLauncher.cpp.obj",
+			"SpacialNav.cpp.obj",
+			"SpacialNavPawn.cpp.obj",
+			"SpacialNavigationAI.cpp.obj",
+			"FSpacialNavNode.cpp.obj"
+		]
+	}
+}

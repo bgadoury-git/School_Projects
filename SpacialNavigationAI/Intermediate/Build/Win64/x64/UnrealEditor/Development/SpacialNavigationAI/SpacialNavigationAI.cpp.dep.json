@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\basti\\onedrive\\documents\\unreal projects\\myproject\\plugins\\spacialnavigationai\\source\\spacialnavigationai\\private\\spacialnavigationai.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\basti\\onedrive\\documents\\unreal projects\\myproject\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\basti\\onedrive\\documents\\unreal projects\\myproject\\plugins\\spacialnavigationai\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spacialnavigationai\\definitions.spacialnavigationai.h",
+            "c:\\users\\basti\\onedrive\\documents\\unreal projects\\myproject\\plugins\\spacialnavigationai\\source\\spacialnavigationai\\public\\spacialnavigationai.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
